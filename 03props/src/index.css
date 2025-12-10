@@ -1,0 +1,32 @@
+.continer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.parent {
+  background-color: aquamarine;
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  display: flex;              
+  justify-content: center;    
+  align-items: center;        
+  border-radius: 10px;        
+  
+.child img {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.child button {
+  background-color: rgba(115, 90, 229, 0.991);
+  color: white;
+  height: 30px;
+  width: 90px;
+  border-radius: 8px;
+  border: none;
+}

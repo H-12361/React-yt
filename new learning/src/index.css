@@ -1,4 +1,18 @@
 *{
-  background-color: black;
-  color: white;
+  background-color: rgba(11, 10, 9, 0.863);
+  margin: 0px;
+  padding: 0px;
+  color: white  ;
+
+
+}
+.card{
+  background-color: rgb(19, 18, 18);
+  border-radius: 10px;
+   color: white;
+   margin: 20px;
+   padding: 20px;
+}
+.heba{
+  background-color: brown;
 }
