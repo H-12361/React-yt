@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+#right::-webkit-scrollbar{
+    display: none;
+}
+.Image{
+    opacity: 0.1 !important;
+}
