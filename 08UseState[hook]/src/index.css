@@ -1,0 +1,19 @@
+button{
+  width: 300px;
+  background-color: bisque;
+  color: red;
+  height: 70px;
+  font-size: 60px;
+}
+
+h2{
+  background-color: gray;
+  color: white;
+  height: 80px;
+  padding: 70px 70px;
+  margin: 80px;
+  width: fit-content;
+  font-size: 100px;
+  
+  
+}
